@@ -385,13 +385,14 @@ Hide/Show table of contents
 
 ## Core React
 
-1.  ### What is React?
+1.  ### ما هو React؟
 
-    React (aka React.js or ReactJS) is an **open-source front-end JavaScript library** that is used for building composable user interfaces, especially for single-page applications. It is used for handling view layer for web and mobile apps based on components in a declarative approach.
+    React (المعروفة أيضًا بـ React.js أو ReactJS) هي **مكتبة جافا سكريبت مفتوحة المصدر** تُستخدم لبناء واجهات المستخدم القابلة للتكوين، خاصةً لتطبيقات الصفحة الواحدة. تُستخدم للتعامل مع طبقة العرض لتطبيقات الويب والموبايل بناءً على المكونات بطريقة إعلانية.
 
-    React was created by [Jordan Walke](https://github.com/jordwalke), a software engineer working for Facebook. React was first deployed on Facebook's News Feed in 2011 and on Instagram in 2012.
+    تم إنشاء React بواسطة [جوردان والكي](https://github.com/jordwalke)، مهندس برمجيات يعمل في فيسبوك. تم نشر React لأول مرة على خلاصة أخبار فيسبوك في عام 2011 وعلى إنستغرام في عام 2012.
 
-    **[⬆ Back to Top](#table-of-contents)**
+    **[⬆ العودة إلى الأعلى](#table-of-contents)**
+
 
 2.  ### What is the history behind React evolution?
 
